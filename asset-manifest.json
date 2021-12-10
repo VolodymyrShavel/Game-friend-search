@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VolodymyrShavel/gamefriendsearch.github.io/static/css/main.43a0810e.chunk.css",
+    "main.js": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/main.1af2181c.chunk.js",
+    "main.js.map": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/main.1af2181c.chunk.js.map",
+    "runtime-main.js": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/runtime-main.03f73c97.js",
+    "runtime-main.js.map": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/runtime-main.03f73c97.js.map",
+    "static/js/2.5a20faab.chunk.js": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/2.5a20faab.chunk.js",
+    "static/js/2.5a20faab.chunk.js.map": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/2.5a20faab.chunk.js.map",
+    "index.html": "/VolodymyrShavel/gamefriendsearch.github.io/index.html",
+    "precache-manifest.aca9a77e5b965d027811e31e960219ca.js": "/VolodymyrShavel/gamefriendsearch.github.io/precache-manifest.aca9a77e5b965d027811e31e960219ca.js",
+    "service-worker.js": "/VolodymyrShavel/gamefriendsearch.github.io/service-worker.js",
+    "static/css/main.43a0810e.chunk.css.map": "/VolodymyrShavel/gamefriendsearch.github.io/static/css/main.43a0810e.chunk.css.map",
+    "static/js/2.5a20faab.chunk.js.LICENSE.txt": "/VolodymyrShavel/gamefriendsearch.github.io/static/js/2.5a20faab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f73c97.js",
+    "static/js/2.5a20faab.chunk.js",
+    "static/css/main.43a0810e.chunk.css",
+    "static/js/main.1af2181c.chunk.js"
+  ]
+}
